@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trading-component/static/css/main.42407db5.css",
+    "main.js": "/trading-component/static/js/main.e79578bf.js",
+    "static/js/787.5b93cac2.chunk.js": "/trading-component/static/js/787.5b93cac2.chunk.js",
+    "index.html": "/trading-component/index.html",
+    "main.42407db5.css.map": "/trading-component/static/css/main.42407db5.css.map",
+    "main.e79578bf.js.map": "/trading-component/static/js/main.e79578bf.js.map",
+    "787.5b93cac2.chunk.js.map": "/trading-component/static/js/787.5b93cac2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42407db5.css",
+    "static/js/main.e79578bf.js"
+  ]
+}
