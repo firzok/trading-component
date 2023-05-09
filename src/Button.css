@@ -1,0 +1,19 @@
+.button {
+  cursor: pointer;
+  background-color: black;
+  border-radius: 15px;
+  padding: 15px 30px;
+  font-size: 1.2rem;
+  color: rgb(66, 74, 86);
+  border: 2px solid rgb(66, 74, 86);
+  margin: 5px;
+}
+
+.button:hover {
+  border: 2px solid rgb(44, 65, 95);
+}
+
+.selected {
+  color: white;
+  border: 2px solid rgb(44, 65, 95);
+}
